@@ -1,16 +1,21 @@
-### Hi there 👋
+## 👋 Hi! I'm i-125
 
-<!--
-**i-125/i-125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+  <a href="https://github.com/i-125/i-125/">
+    <img src="https://komarev.com/ghpvc/?username=i-125" alt="i-125" />
+  </a>
+</p>
+<p align="left">
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=i-125&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+  <img alt="github streak" src="http://github-readme-streak-stats.herokuapp.com?user=i-125&theme=react&hide_border=true" />
+</p>
+<p align="left">
+  <img alt="github trophy" src="https://github-profile-trophy.vercel.app/?username=i-125&theme=tokyonight" />
+</p>
+<p align="left">
+  <img alt="github summary cards 0" src="https://raw.githubusercontent.com/i-125/i-125/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
+  <img alt="github summary cards 1" src="https://raw.githubusercontent.com/i-125/i-125/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
+  <img alt="github summary cards 2" src="https://raw.githubusercontent.com/i-125/i-125/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
+  <img alt="github summary cards 3" src="https://raw.githubusercontent.com/i-125/i-125/main/profile-summary-card-output/nord_dark/3-stats.svg" />
+  <img alt="github summary cards 4" src="https://raw.githubusercontent.com/i-125/i-125/main/profile-summary-card-output/nord_dark/4-productive-time.svg" />
+</p>
