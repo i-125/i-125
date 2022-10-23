@@ -10,11 +10,7 @@
   <img alt="github streak" src="http://github-readme-streak-stats.herokuapp.com?user=i-125&theme=react&hide_border=true" />
 </p>
 <p align="left">
-  <img alt="github trophy" src="https://github-profile-trophy.vercel.app/?username=i-125&theme=tokyonight" />
-</p>
-<p align="left">
   <img alt="github summary cards 0" src="https://raw.githubusercontent.com/i-125/i-125/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
-  <img alt="github summary cards 1" src="https://raw.githubusercontent.com/i-125/i-125/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
   <img alt="github summary cards 2" src="https://raw.githubusercontent.com/i-125/i-125/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
   <img alt="github summary cards 3" src="https://raw.githubusercontent.com/i-125/i-125/main/profile-summary-card-output/nord_dark/3-stats.svg" />
   <img alt="github summary cards 4" src="https://raw.githubusercontent.com/i-125/i-125/main/profile-summary-card-output/nord_dark/4-productive-time.svg" />
